@@ -1,0 +1,35 @@
+# Kubernetes CKS 2021 Complete Course + Simulator  Killer shell
+https://www.udemy.com/course/certified-kubernetes-security-specialist/
+
+# Big list of CKS content
+https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist
+
+# Great list of notes on CKS
+https://github.com/echoboomer/k8s-cks-notes
+
+# Youtube "Webinar: The Certified Kubernetes Security Specialist: What to Know and How to Pass"
+https://www.youtube.com/watch?v=Ny3p0UKBcYs&feature=youtu.be
+
+# "CKS Certification Study Guide: Cluster Hardening"
+https://www.stackrox.com/post/2020/12/cks-certification-study-guide-cluster-hardening/?utm_source=Reddit&utm_medium=Social&utm_campaign=k8s-sub
+
+# CNCF Main page CKS
+https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/
+
+# Learn CKS scenarios
+https://gumroad.com/l/XmeCO
+
+# Cloud IAC for test envirionment setup
+
+# Azure create K8s (Kubeadm) cluster
+Terraform: https://github.com/ams0/CKS/tree/main/kubeadm-containerd-multinode
+AZ cli: https://medium.com/cooking-with-azure/cks-exam-prep-kubeadm-vm-in-azure-d7ef5dcf47f7
+
+# GCP create K8s (Kubeadm) cluster
+Terraform: https://github.com/skamalj/k8s-terraform
+
+# AWS based on the Azure work above
+https://github.com/tmahalligan/ec2_kubeadm
+
+
+
